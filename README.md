@@ -1,4 +1,4 @@
-<img align="right" alt="Random Image" width="200px" src="https://source.unsplash.com/random/200x200?tech" />
+<img align="right" alt="Random Image" width="200px" src="https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0" />
 
 # Hi, I'm Laxminarayan Vyas 👋
 
@@ -32,9 +32,9 @@
 ## 📫 How to Reach Me
 
 - **Email:** laxminarayanvyas077@gmail.com  
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/laxminarayan-vyas-a190101b9/)  
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/laxminarayan-vyas-a190101b9/)  
 
 ---
 
-<img align="right" alt="Random Image" width="200px" src="https://source.unsplash.com/random/200x200?coding" />
+<img align="right" alt="Random Image" width="200px" src="https://unsplash.com/photos/digital-code-number-abstract-background-represent-coding-technology-and-programming-languages-B7PClvzYtkU" />
 
