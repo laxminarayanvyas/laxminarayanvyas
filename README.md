@@ -1,4 +1,4 @@
-![Technology Image](https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_960_720.jpg)
+![Technology Image](https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/bulb.jpg?raw=true)
 
 # Hi, I'm Laxminarayan Vyas 👋
 
