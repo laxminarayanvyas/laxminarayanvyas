@@ -1,4 +1,4 @@
-<img align="right" alt="Technology Image" width="200px" src="https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_1280.jpg" />
+<img align="right" alt="Technology Image" width="200px" src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b" />
 
 # Hi, I'm Laxminarayan Vyas 👋
 
