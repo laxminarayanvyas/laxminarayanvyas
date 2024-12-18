@@ -1,4 +1,4 @@
-<img align="right" alt="Random Image" width="200px" src="https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0" />
+<img align="right" alt="Random Image" width="200px" src="https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_1280.jpg" />
 
 # Hi, I'm Laxminarayan Vyas 👋
 
