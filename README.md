@@ -1,4 +1,4 @@
-<img src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/laptop_keys.jpg?raw=true" alt="Tech Image" width="500px" height="auto" />
+<img src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/laptop_keys.jpg?raw=true" alt="Tech Image" width="350px" height="auto" />
 
 # Hi, I'm Laxminarayan Vyas 👋
 
