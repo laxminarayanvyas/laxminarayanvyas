@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @laxminarayanvyas
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning java frameworks
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me laxminarayanvyas077@gmail.com
+<img align="right" alt="Random Image" width="200px" src="https://source.unsplash.com/random/200x200?tech" />
 
-<!---
-laxminarayanvyas/laxminarayanvyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Laxminarayan Vyas 👋
+
+**A passionate Developer, Programmer & Tech-savvy person from India**
+
+---
+
+## 📄 Checkout
+
+- 🌐 [**My Portfolio**](https://laxminarayanvyas.github.io/resume/)   
+- 📄 [**My Resume**](https://drive.google.com/file/d/1M99mvMId0o6H7VyCeHLJQU0KitztfOrJ/view?usp=drive_link)  
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on exciting projects to enhance my skills.
+- 💬 Ask me about anything, I’m happy to help!
+
+---
+
+## 🚀 Coding
+
+- **Languages:** Java, C++, JavaScript, and more.
+- **Frameworks:** Spring Boot, React.
+- **Tools:** Eclipse, MySQL, Git, VS Code, IntelliJ IDEA.
+
+---
+
+
+## 📫 How to Reach Me
+
+- **Email:** laxminarayanvyas077@gmail.com  
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/laxminarayan-vyas-a190101b9/)  
+
+---
+
+<img align="right" alt="Random Image" width="200px" src="https://source.unsplash.com/random/200x200?coding" />
+
