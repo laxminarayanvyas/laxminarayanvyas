@@ -1,5 +1,4 @@
-![Technology Image](https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/bulb.jpg?raw=true)
-
+<img align="right" alt="Tech Image" height="100px" width="200px" src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/bulb.jpg?raw=true" />
 # Hi, I'm Laxminarayan Vyas 👋
 
 **A passionate Developer, Programmer & Tech-savvy person from India**
