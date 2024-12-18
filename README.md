@@ -1,4 +1,5 @@
-<img align="right" alt="Tech Image" height="100px" width="700px" src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/bulb.jpg?raw=true" />
+<img src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/bulb.jpg?raw=true" alt="Tech Image" width="200px" height="auto" />
+
 # Hi, I'm Laxminarayan Vyas 👋
 
 **A passionate Developer, Programmer & Tech-savvy person from India**
