@@ -1,4 +1,4 @@
-<img src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/bulb.jpg?raw=true" alt="Tech Image" width="200px" height="auto" />
+<img src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/laptop_keys.jpg?raw=true" alt="Tech Image" width="200px" height="auto" />
 
 # Hi, I'm Laxminarayan Vyas 👋
 
@@ -36,5 +36,5 @@
 
 ---
 
-<img align="right" alt="Random Image" width="200px" src="https://unsplash.com/photos/digital-code-number-abstract-background-represent-coding-technology-and-programming-languages-B7PClvzYtkU" />
+<img src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/bulb.jpg?raw=true" alt="Tech Image" width="200px" height="auto" />
 
