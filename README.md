@@ -1,4 +1,4 @@
-<img src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/laptop_keys.jpg?raw=true" alt="Tech Image" width="200px" height="auto" />
+<img src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/laptop_keys.jpg?raw=true" alt="Tech Image" width="500px" height="auto" />
 
 # Hi, I'm Laxminarayan Vyas 👋
 
@@ -33,8 +33,8 @@
 
 - **Email:** laxminarayanvyas077@gmail.com  
 - **LinkedIn:** [Linkedin](https://www.linkedin.com/in/laxminarayan-vyas-a190101b9/)  
-
+<img src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/bulb.jpg?raw=true" alt="Tech Image" width="200px" height="auto" />
 ---
 
-<img src="https://github.com/laxminarayanvyas/laxminarayanvyas/blob/main/bulb.jpg?raw=true" alt="Tech Image" width="200px" height="auto" />
+
 
